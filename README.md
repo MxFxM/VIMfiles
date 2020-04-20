@@ -1,2 +1,2 @@
 # VIMfiles
-my vim files
+my vimrc
